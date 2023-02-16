@@ -1,3 +1,2 @@
 # Javascript-Components
-Modal
-Accordion
+Modal & Accordion
