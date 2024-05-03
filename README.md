@@ -1,2 +1,2 @@
-# Javascript-Components
+# UI-Components
 Modal & Accordion
